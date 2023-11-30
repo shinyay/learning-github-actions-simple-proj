@@ -2,7 +2,7 @@
 
 Overview
 
-![simple-proj](https://github.com/shinyay/learning-github-actions-simple-proj/actions/workflows/python-app.yml/badge.svg)
+[![simple-proj](https://github.com/shinyay/learning-github-actions-simple-proj/actions/workflows/python-app.yml/badge.svg)](https://github.com/shinyay/learning-github-actions-simple-proj/actions/workflows/python-app.yml)
 
 ## Description
 
